@@ -1,4 +1,4 @@
-# Bài thực hành 03 – Kiểm thử hộp trắng
+# Bài thực hành 04 – Kiểm thử hộp trắng
 
 ## 1. Mục tiêu
 
