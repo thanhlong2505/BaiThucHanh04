@@ -1,0 +1,11 @@
+KẾT QUẢ CHẠY TEST
+==================
+
+Lệnh:
+mvn clean test
+
+File này là vị trí để lưu log kết quả chạy JUnit thực tế.
+Sau khi chạy lệnh trên máy, có thể thay nội dung file này bằng output thực tế của Maven/Surefire.
+
+Báo cáo JaCoCo:
+target/site/jacoco/index.html
